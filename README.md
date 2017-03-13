@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi 
+Hope everything will be going well , i like to get informations about conferences,learning programming,linux and other software tools.
